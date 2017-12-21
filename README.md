@@ -8,7 +8,7 @@
 - git fetch
 - git commit
 - git merge 
-- git rever 
+- git revert 
 - git reset 
 - git checkout
 - git cherry-pick
