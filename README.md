@@ -2,13 +2,26 @@
 - git config --global 
 - git init 
 - git status
+- git clone
 - git add 
 - git push
 - git pull
 - git fetch
 - git commit
+- git commit --amend
 - git merge 
 - git revert 
 - git reset 
 - git checkout
 - git cherry-pick
+- git diff
+- git rm 
+- git log
+- git log --oneline
+- git stash 
+- git stash pop
+- git blame 
+- git branch
+- git tag
+- git remote
+- git rebase
